@@ -5,8 +5,8 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supmine&layout=compact&theme=highcontrast)](https://github.com/supmine/)
-![supmine's github stats](https://github-readme-stats.vercel.app/api?username=supmine&show_icons=true&theme=highcontrast)
+
+![supmine's github stats](https://github-readme-stats.vercel.app/api?username=supmine&count_private=true&show_icons=true&theme=highcontrast)
 -----
 Credits: [supmine](https://github.com/supmine)
 
