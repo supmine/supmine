@@ -4,10 +4,11 @@
 - 🌱 I’m currently a third year student at Computer Engineering, Chulalongkorn University
 - 📫 How to reach me: 
   
-
+#### Languages and Tools 
 
 
 ![supmine's github stats](https://github-readme-stats.vercel.app/api?username=supmine&count_private=true&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supmine&layout=compact&theme=highcontrast)](https://github.com/supminr)
 -----
 Credits: [supmine](https://github.com/supmine)
 
