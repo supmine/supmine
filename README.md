@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @supmine
+### Hi there 👋, I'm supanart
+
 - 👀 I’m interested in data science, business, and self-improving
 - 🌱 I’m currently learning Computer Engineering, Chulalongkorn University
 
