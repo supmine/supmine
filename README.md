@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm supanart
-
+![ViewCount](https://komarev.com/ghpvc/?username=supmine&style=flat-square)
 - 👀 I’m interested in data science, business, and self-improving
 - 🌱 I’m currently a third year student at Computer Engineering, Chulalongkorn University
-
+- 📫 How to reach me: 
+  
 
 
 
