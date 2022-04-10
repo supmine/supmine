@@ -7,7 +7,8 @@
   
 #### Languages and Tools 
 
-[![supmine's github stats](https://github-readme-stats.vercel.app/api?username=supmine&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/supmine?tab=repositories)
+[![supmine's github stats](https://github-readme-stats.vercel.app/api?username=supmine&count_private=true)
+)](https://github.com/supmine?tab=repositories)
 &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supmine&layout=compact&theme=highcontrast)](https://github.com/supmine)
 -----
 
