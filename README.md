@@ -9,7 +9,7 @@
 
 [![supmine's github stats](https://github-readme-stats.vercel.app/api?username=supmine&count_private=true)
 )](https://github.com/supmine?tab=repositories)
-&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supmine&layout=compact&theme=highcontrast)](https://github.com/supmine)
+&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supmine&layout=compact&theme=highcontrast)(https://github.com/supmine)
 -----
 
 Last Edited on: 1/1/2022
