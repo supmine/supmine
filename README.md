@@ -5,7 +5,6 @@
 - 🌱 I’m currently a senior student at Computer Engineering, Chulalongkorn University
 - 📫 How to reach me: 
        <p align="center">
-
 <a href="https://linkedin.com/in/supanart-barnsongkit"></a>
 <a href="https://instagram.com/sup_mine"></a>
 <a href="https://facebook.com/AVS1508"></a>
