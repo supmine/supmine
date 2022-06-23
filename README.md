@@ -10,7 +10,7 @@
 #### Languages and Tools 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supmine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -----
-![Supmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=supmine&count_private=true&theme=dark&show_icons=true)
+![Supmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=supmine&count_private=true&theme=highcontrast&show_icons=true)
 -----
 
 Last Edited on: 23/6/2022
