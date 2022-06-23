@@ -6,11 +6,11 @@
 - 📫 How to reach me: 
        <p align="center">
 
-<a href="https://linkedin.com/in/supanart-barnsongkit"><img src="https://img.shields.io/badge/?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/sup_mine"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://linkedin.com/in/supanart-barnsongkit"></a>
+<a href="https://instagram.com/sup_mine"></a>
+<a href="https://facebook.com/AVS1508"></a>
+<a href="https://www.pinterest.ca/AVS1508"></a>
+<a href="https://www.behance.net/AVS1508"></a>
 </p>
   
 ### Languages and Tools 
