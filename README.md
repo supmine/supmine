@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [supanart](https://www.linkedin.com/in/supanart-barnsongkit-389407175/)
 
 ![ViewCount](https://komarev.com/ghpvc/?username=supmine&style=plastic)
-- 👀 I’m interested in data science, business, and self-improving
+- 👀 I’m interested in machine learning, computer vision, nlp, full-stack devceloper, business, and self-improving
 - 🌱 I’m currently a third year student at Computer Engineering, Chulalongkorn University
 - 📫 How to reach me: 
        - Facebook
