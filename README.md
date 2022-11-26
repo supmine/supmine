@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [supanart](https://www.linkedin.com/in/supanart-barnsongkit-389407175/)
 
 ![ViewCount](https://komarev.com/ghpvc/?username=supmine&style=plastic)
-- 👀 I’m interested in machine learning, computer vision, nlp, full-stack devceloper, business, and self-improving
+- 👀 I’m interested in machine learning, data engineer, computer vision, full-stack developer, devOps, business, and self-improving
 - 🌱 I’m currently a senior student at Computer Engineering, Chulalongkorn University
 - 📫 How to reach me: 
        <p align="center">
@@ -16,9 +16,9 @@
 ![Supmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=supmine&count_private=true&theme=highcontrast&show_icons=true)
 -----
 
-### How to reac
+### How to reach me
 
-Last Edited on: 23/6/2022
+Last Edited on: 26/11/2022
 <!---
 supmine/supmine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
