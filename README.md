@@ -8,10 +8,10 @@
   </p>
 </blockquote>
 
-### About me
+### 👨🏻‍💻 About me
 
 - 👀 I’m interested in **Machine Learning, Computer Vision, Data, and Software Engineering**
-- 🌱 I graduated from Computer Engineering, Chulalongkorn University (1st class honor)
+- 🌱 I graduated from Computer Engineering, Chulalongkorn University, Thailand (1st class honor) (class of 2023)
 
 ### 🚀 Expertise
 
