@@ -23,6 +23,10 @@
 - **Technology**: Docker, Kubernetes, Terraform, CI/CD, PostgreSQL, MongoDB, Redis, Kafka
 - **Tools**: Git, GitHub, GitLab, Jira, Confluence, Notion, Figma, Adobe XD
 
+### 🎯 Future Goals
+
+- "My ultimate goal is to build a startup that positively impacts the lives of millions, especially in my hometown of Thailand. I'm excited about the possibilities that lie ahead and eager to learn and grow on this journey"
+
 ### 📫 How to reach me
 
 <p align="center">
