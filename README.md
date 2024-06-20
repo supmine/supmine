@@ -2,24 +2,31 @@
 
 ![ViewCount](https://komarev.com/ghpvc/?username=supmine&style=plastic)
 
-<blockquote style="font-size: 20px;font-family: OCR A Std, monospace; ">
+<blockquote style="font-size: 22px;font-family: OCR A Std, monospace; ">
   <p align="center">
-   "Try your best!"
+   "Do your best! No regrets!"
   </p>
 </blockquote>
 
 ### 👨🏻‍💻 About me
 
 - 👀 I’m interested in **Machine Learning, Computer Vision, Data, and Software Engineering**
-- 🌱 I graduated from Computer Engineering, Chulalongkorn University, Thailand (1st class honor) (class of 2023)
+- 🌱 I graduated from Computer Engineering at Chulalongkorn University, Thailand, with first-class honors, in the class of 2023
+- 🌐 I also have a keen interest in embedded systems and IoT technologies.
+- 💻 Coding is both a hobby and a professional interest of mine
+- 📚 I enjoy reading books on various subjects, from fiction to technology trends
+- 🏃‍♂️ I love running to stay fit and clear my mind
+- ✈️ As a traveler, I enjoy exploring new places and experiencing different cultures
+
 
 ### 🚀 Expertise
 
 - **Languages**: Python, Java, Kotlin, Go, C++, TypeScript, JavaScript
 - **Frameworks**:
-       - ML & DL (TensorFlow, PyTorch, Keras, OpenCV)
-       - Android
-       - Web frameworks (FastAPI, Express.js, NestJS, NextJS Echo, Gin)
+  - ML & DL (TensorFlow, PyTorch, Keras, OpenCV)
+  - Android (Bluetooth Classic & BLE, AOSP, CameraX)
+  - Web frameworks (FastAPI, Express.js, NestJS, NextJS Echo, Gin)
+  - Embedded (Arduino, Raspberry Pi, ESP32, Nordic nRF52)
 - **Technology**: Docker, Kubernetes, Terraform, CI/CD, PostgreSQL, MongoDB, Redis, Kafka
 - **Tools**: Git, GitHub, GitLab, Jira, Confluence, Notion, Figma, Adobe XD
 
